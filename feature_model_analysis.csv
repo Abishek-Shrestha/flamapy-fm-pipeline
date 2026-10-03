@@ -1,0 +1,5 @@
+model,satisfiable,num_configurations,num_core_features,num_dead_features,num_false_optional_features
+SmartWatch,True,54,3,0,0
+Xiaomi SmartBand,True,21,12,0,0
+Data VIZ,True,8,4,0,0
+Pizza,True,228,4,0,0
